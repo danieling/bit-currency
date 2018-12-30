@@ -1,3 +1,8 @@
 npm init -y
 npm install electron --save-dev --save-exact
 npm install axios --save
+
+DEPLOY
+
+npm install electron-packager --save-dev
+npm run package-win
